@@ -1,1 +1,1 @@
-# git_test
+"This is imouji's first git project!
